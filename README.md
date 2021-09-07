@@ -1,0 +1,1 @@
+# NextStrapiFoodApp
